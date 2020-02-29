@@ -1,0 +1,5 @@
+profile: function-aws
+defaultPackage: hello.world.fun
+---
+testFramework: junit
+sourceLanguage: java
